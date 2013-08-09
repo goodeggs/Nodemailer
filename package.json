@@ -38,5 +38,5 @@
     "bin": {
         "nodemailer" : "./bin/nodemailer" 
     },
-    "keywords": ["e-mail", "mime", "email", "mail", "sendmail", "ses"]
+    "keywords": ["e-mail", "mime", "email", "mail", "sendmail"]
 }
